@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+## i'm Paulo Victor Soares. I'm currently studying full-stack development.
 
+🧠 I'm focused on web and application development.
 <!--
 **paulovctxr/paulovctxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
