@@ -2,7 +2,7 @@
 
 Fullstack Developer passionate about technology and turning needs into real, scalable, and functional applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=paulovctxr&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://paulovctxr.github.io/Portifolio/#contato)
 
 ## 🚀 About me
 
@@ -24,10 +24,6 @@ Fullstack Developer passionate about technology and turning needs into real, sca
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulovctxr&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovctxr&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 ![GitHub Streak](https://streak-stats.demolab.com?user=paulovctxr&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-## 🏆 Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paulovctxr&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ## 📌 Featured Projects
 
