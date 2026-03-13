@@ -2,8 +2,6 @@
 
 Fullstack Developer passionate about technology and turning needs into real, scalable, and functional applications.
 
-![Profile Views](https://paulovctxr.github.io/Portifolio/#contato)
-
 ## 🚀 About me
 
 - 💻 Focused on fullstack web development
