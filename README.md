@@ -17,12 +17,6 @@ Fullstack Developer passionate about technology and turning needs into real, sca
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulovctxr&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovctxr&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-![GitHub Streak](https://streak-stats.demolab.com?user=paulovctxr&theme=tokyonight&hide_border=true&locale=pt_BR)
-
 ## 📌 Featured Projects
 
 - Travelgram — Social network to share travel memories
